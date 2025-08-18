@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MinesweeperTool",
+	"Description": "Minesweeper game embedded in Editor Window",
+	"Category": "Editor",
+	"CreatedBy": "Carlos Vila",
+	"CreatedByURL": "https://theredpix.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+    "EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MinesweeperTool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
